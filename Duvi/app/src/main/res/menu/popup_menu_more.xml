@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Book Marks" >
+        <menu>
+            <item
+                android:id="@+id/addBookMark"
+                android:title="Add This Website"
+                android:onClick="addBookmark"
+                />
+            <item
+                android:id="@+id/getAllBookMarks"
+                android:title="Get All"
+                android:onClick="getBookMarks"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/home_more"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        android:onClick="Home"/>
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="History"
+        android:onClick="goToHistory"/>
+    <item
+        android:id="@+id/reload_more"
+        android:icon="@drawable/ic_baseline_sync_24"
+        android:title="Reload"
+        android:onClick="Reload"/>
+    <item
+        android:id="@+id/share_more"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:onClick="Share"/>
+    <item
+        android:id="@+id/page_more"
+        android:title="Page"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:onClick="Settings"></item>
+</menu>

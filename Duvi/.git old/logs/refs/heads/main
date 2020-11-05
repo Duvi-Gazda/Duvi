@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 41acb4be940f23766cc00e37cf5d42c7a8a1bc68 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604012954 +0200	commit (initial): Initial commit
+41acb4be940f23766cc00e37cf5d42c7a8a1bc68 d95418caa6c0346e71563750b0408f14ac2a93eb Duvi-Gazda <gazda.haimdavid@gmail.com> 1604013547 +0200	commit: sdafhm
+d95418caa6c0346e71563750b0408f14ac2a93eb f54f87a336c429b8525a53c0f553c8f98df15f0b Duvi-Gazda <gazda.haimdavid@gmail.com> 1604013806 +0200	commit: first commit
+f54f87a336c429b8525a53c0f553c8f98df15f0b f54f87a336c429b8525a53c0f553c8f98df15f0b Duvi-Gazda <gazda.haimdavid@gmail.com> 1604013812 +0200	Branch: renamed refs/heads/master to refs/heads/main
+f54f87a336c429b8525a53c0f553c8f98df15f0b 0ebf77d5ac2dbf6b3cf43f06f22fc68e43bb45d0 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604266392 +0200	commit: sdafhm
+0ebf77d5ac2dbf6b3cf43f06f22fc68e43bb45d0 75def9145a3ec4be41b20093f0930142b1bda1cb Duvi-Gazda <gazda.haimdavid@gmail.com> 1604340197 +0200	commit: first commit
+75def9145a3ec4be41b20093f0930142b1bda1cb 288bac3fecf70784f271f7e11cba633f56b7c8c1 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604340249 +0200	commit: second commit
+288bac3fecf70784f271f7e11cba633f56b7c8c1 4a3387d82ccb4daec5ec0851d747d835c7845e7e Duvi-Gazda <gazda.haimdavid@gmail.com> 1604346145 +0200	commit: add class type and tabs
+4a3387d82ccb4daec5ec0851d747d835c7845e7e 288bac3fecf70784f271f7e11cba633f56b7c8c1 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604346205 +0200	reset: moving to 288bac3fecf70784f271f7e11cba633f56b7c8c1
+288bac3fecf70784f271f7e11cba633f56b7c8c1 a3889fd05145c8312ca4a7acfa5b549dc604da43 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604346369 +0200	commit: add class type and tabs
+a3889fd05145c8312ca4a7acfa5b549dc604da43 788a4473d924566b7cc201a75fefc25a33621ae8 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604510622 +0200	commit: Revert "second commit"
+788a4473d924566b7cc201a75fefc25a33621ae8 d5aa2d7863dc8c874f2b88285a4920591f7ef73e Duvi-Gazda <gazda.haimdavid@gmail.com> 1604534385 +0200	commit: Revert "second commit"
+d5aa2d7863dc8c874f2b88285a4920591f7ef73e 1d8bf2878e833c76d56178541a2720785cde961c Duvi-Gazda <gazda.haimdavid@gmail.com> 1604581852 +0200	commit: add history
+1d8bf2878e833c76d56178541a2720785cde961c d5aa2d7863dc8c874f2b88285a4920591f7ef73e Duvi-Gazda <gazda.haimdavid@gmail.com> 1604585977 +0200	reset: moving to d5aa2d7863dc8c874f2b88285a4920591f7ef73e
+d5aa2d7863dc8c874f2b88285a4920591f7ef73e 148a00e2bbea55cddb145b369b4623f4796e0050 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604587041 +0200	commit: history update
+148a00e2bbea55cddb145b369b4623f4796e0050 22678659aedb9994c86f8d3c874bd01ba7fac974 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604587916 +0200	commit: first commit
+22678659aedb9994c86f8d3c874bd01ba7fac974 22678659aedb9994c86f8d3c874bd01ba7fac974 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604587925 +0200	Branch: renamed refs/heads/main to refs/heads/main
+22678659aedb9994c86f8d3c874bd01ba7fac974 22678659aedb9994c86f8d3c874bd01ba7fac974 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604587970 +0200	Branch: renamed refs/heads/main to refs/heads/main
+22678659aedb9994c86f8d3c874bd01ba7fac974 22678659aedb9994c86f8d3c874bd01ba7fac974 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604587986 +0200	Branch: renamed refs/heads/main to refs/heads/main
+22678659aedb9994c86f8d3c874bd01ba7fac974 22678659aedb9994c86f8d3c874bd01ba7fac974 Duvi-Gazda <gazda.haimdavid@gmail.com> 1604587992 +0200	Branch: renamed refs/heads/main to refs/heads/main

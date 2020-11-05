@@ -1,0 +1,58 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:onClick="goToTab"
+    >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight=".90"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/id"
+            android:layout_width="323dp"
+            android:layout_height="0dp"
+            android:layout_weight=".0"
+            android:text="HomeTown"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/path"
+            android:layout_width="323dp"
+            android:layout_height="wrap_content"
+            android:text="HomeTown"
+            android:textSize="10sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight=".10"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:layout_weight=".100"
+            android:onClick="deleteTab"
+            android:layout_height="20dp"
+            app:srcCompat="@drawable/ic_baseline_clear_24" />
+    </LinearLayout>
+</LinearLayout>

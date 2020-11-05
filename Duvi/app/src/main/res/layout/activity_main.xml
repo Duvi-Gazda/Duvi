@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/search_query"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".40"
+            android:text="Search web site"
+            android:maxLines="1"
+            android:inputType="text"
+            android:scrollHorizontally="true"
+            android:ellipsize="end"
+            android:hint="search..."
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/search_im_b"
+            android:layout_width="15dp"
+            android:layout_height="30dp"
+            android:layout_weight=".20"
+            app:srcCompat="@drawable/ic_baseline_search_24" />
+
+        <ImageView
+            android:id="@+id/tabs_im_b"
+            android:layout_width="15dp"
+            android:layout_height="30dp"
+            android:layout_weight=".20"
+            android:onClick="Tabs"
+            app:srcCompat="@drawable/ic_baseline_crop_din_24" />
+
+        <ImageView
+            android:id="@+id/more_im_b"
+            android:layout_width="15dp"
+            android:layout_height="30dp"
+            android:layout_weight=".20"
+            app:srcCompat="@drawable/ic_baseline_more_vert_24"
+            android:onClick="showMore"/>
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/search_query"
+        android:layout_marginEnd="10dp" />
+
+    <WebView
+        android:id="@+id/show_web_view"
+        android:layout_width="match_parent"
+        android:layout_height="687dp" />
+
+</LinearLayout>
